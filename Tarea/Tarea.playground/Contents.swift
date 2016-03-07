@@ -22,15 +22,19 @@ for n in numero {
             print("\(n) par Bingo!!! Viva Swift!!!")
         } else if n % 5 == 0 {
             print("\(n) par Bingo!!!")
+        } else if n > 30 && n < 40 {
+            print("\(n) par Viva Swift!!!")
         } else {
             print("\(n) par")
         }
-    }
+        }
         // casos impares
     else if n % 5 == 0 && n > 30 && n < 40 {
         print("\(n) impar Bingo!!! Viva Swift!!!")
     } else if n % 5 == 0 {
         print("\(n) impar Bingo!!!")
+    } else if n > 30 && n < 40 {
+        print("\(n) impar Viva Swift!!!")
     } else {
         print("\(n) impar")
     }
