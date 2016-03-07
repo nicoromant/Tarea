@@ -47,6 +47,7 @@
 		033A2F601C8D50D600E1EFA2 /* TareaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TareaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		033A2F641C8D50D600E1EFA2 /* TareaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TareaUITests.swift; sourceTree = "<group>"; };
 		033A2F661C8D50D600E1EFA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		033A2F721C8D50F200E1EFA2 /* Tarea.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tarea.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				033A2F441C8D50D600E1EFA2 /* AppDelegate.swift */,
+				033A2F721C8D50F200E1EFA2 /* Tarea.playground */,
 				033A2F461C8D50D600E1EFA2 /* ViewController.swift */,
 				033A2F481C8D50D600E1EFA2 /* Main.storyboard */,
 				033A2F4B1C8D50D600E1EFA2 /* Assets.xcassets */,
