@@ -13,6 +13,8 @@ impar               =>      #impar
 entre 30 y 40       =>      #Viva Swift!!!
 */
 
+// Push test GitHub March 14
+
 var numero = 0...100
 
 for n in numero {
@@ -28,7 +30,7 @@ for n in numero {
             print("\(n) par")
         }
         }
-        // casos impares
+    // casos impares
     else if n % 5 == 0 && n > 30 && n < 40 {
         print("\(n) impar Bingo!!! Viva Swift!!!")
     } else if n % 5 == 0 {
